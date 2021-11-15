@@ -1,0 +1,228 @@
+WpfApp2/bin/Debug/Microsoft.mshtml.dll
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.Core.dll
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.Core.xml
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.WinForms.dll
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.WinForms.xml
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.Wpf.dll
+WpfApp2/bin/Debug/Microsoft.Web.WebView2.Wpf.xml
+WpfApp2/bin/Debug/WpfApp2.exe
+WpfApp2/bin/Debug/WpfApp2.exe.config
+WpfApp2/bin/Debug/WpfApp2.pdb
+WpfApp2/bin/Debug/runtimes/win-arm64/native/WebView2Loader.dll
+WpfApp2/bin/Debug/runtimes/win-x64/native/WebView2Loader.dll
+WpfApp2/bin/Debug/runtimes/win-x86/native/WebView2Loader.dll
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/BrowserMetrics-spare.pma
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/CrashpadMetrics-active.pma
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Functional Data
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Functional Data-wal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Functional SAN Data
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Functional SAN Data-wal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Last Version
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Local State
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/BrowserMetrics/BrowserMetrics-619236CD-11770.pma
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/CertificateRevocation/6498.2021.10.2/crl-set
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/CertificateRevocation/6498.2021.10.2/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/CertificateRevocation/6498.2021.10.2/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Crashpad/metadata
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Crashpad/settings.dat
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Crashpad/throttle_store.dat
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cookies
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cookies-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Favicons
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Favicons-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/heavy_ad_intervention_opt_out.db
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/heavy_ad_intervention_opt_out.db-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/History
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/History-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Login Data
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Login Data-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Network Action Predictor
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Network Action Predictor-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Network Persistent State
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Preferences
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/PreferredApps
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/README
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Reporting and NEL
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Reporting and NEL-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Secure Preferences
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Top Sites
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Top Sites-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Visited Links
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Web Data
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Web Data-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/WebAssistDatabase
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/WebAssistDatabase-journal
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/BudgetDatabase/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/data_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/data_1
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/data_2
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/data_3
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/f_000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/f_000002
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Cache/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/214e34612b38d905_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/26e9bd2f90064240_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/6c229d3a04fac435_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/a8489da7d992e336_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/b7ecc46160f6328a_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/cc8e69dec61f9dd4_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/ed7f39b3fe417e89_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/f25bcf3e48ae0383_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/js/index-dir/the-real-index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/wasm/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Code Cache/wasm/index-dir/the-real-index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/000007.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/data_reduction_proxy_leveldb/MANIFEST-000006
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Download Service/EntryDB/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Download Service/EntryDB/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Download Service/EntryDB/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Extension State/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/GPUCache/data_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/GPUCache/data_1
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/GPUCache/data_2
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/GPUCache/data_3
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/GPUCache/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Local Storage/leveldb/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_model_and_features_store/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_model_and_features_store/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/optimization_guide_model_and_features_store/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Session Storage/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Site Characteristics Database/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/000003.log
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/CURRENT
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOCK
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOG
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOG.old
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/MANIFEST-000001
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/GrShaderCache/GPUCache/data_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/GrShaderCache/GPUCache/data_1
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/GrShaderCache/GPUCache/data_2
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/GrShaderCache/GPUCache/data_3
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/GrShaderCache/GPUCache/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-as.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-be.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-bg.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-bn.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-cu.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-cy.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-da.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-de-1901.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-de-1996.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-de-ch-1901.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-en-gb.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-en-us.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-es.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-et.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-eu.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-fr.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-ga.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-gu.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-hi.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-hr.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-hu.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-hy.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-kn.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-la.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-ml.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-mn-cyrl.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-mr.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-nb.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-nn.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-or.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-pa.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-pt.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-sl.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-ta.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-te.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-tk.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/hyph-und-ethi.hyb
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/hyphen-data/96.0.4643.0/_metadata/verified_contents.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/OriginTrials/0.0.1.4/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/OriginTrials/0.0.1.4/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ShaderCache/GPUCache/data_0
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ShaderCache/GPUCache/data_1
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ShaderCache/GPUCache/data_2
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ShaderCache/GPUCache/data_3
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ShaderCache/GPUCache/index
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/local/cache
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/local/download_cache
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/local/warnStateCache
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/edgeSettings
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/edgeSettings_2.0-2f9188b68640dbf72295f9083a21d674a314721ef06f82db281cbcb052ff8ec1
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/synchronousLookupUris
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/synchronousLookupUris_637725676578012396
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/topTraffic
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/SmartScreen/remote/topTraffic_637582443620690300
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Speech Recognition/1.0.0.7/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Speech Recognition/1.0.0.7/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Speech Recognition/1.0.0.7/Microsoft.CognitiveServices.Speech.core.dll
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Indexed Rules/32/9.33.0/Ruleset Data
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Unindexed Rules/9.33.0/Filtering Rules
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Unindexed Rules/9.33.0/LICENSE.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Unindexed Rules/9.33.0/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Unindexed Rules/9.33.0/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/Subresource Filter/Unindexed Rules/9.33.0/_metadata/verified_contents.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/english_wikipedia.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/female_names.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/male_names.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/manifest.fingerprint
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/manifest.json
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/passwords.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/surnames.txt
+WpfApp2/bin/Debug/WpfApp2.exe.WebView2/EBWebView/ZxcvbnData/2.0.0.0/us_tv_and_film.txt
